@@ -1,0 +1,100 @@
+    /*
+body {
+    margin: 0;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+    height: 100px;
+    background: cyan;
+}
+*/
+
+.wrapper-parallax {
+    /*margin-top: 100px;*/
+    margin-bottom: 360px;
+}
+.content {
+    position: relative;
+    z-index: 1;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black; 
+    width: 100%;
+    margin: auto;
+    min-height: 1000px;
+    background-color: white;
+    
+}
+footer {
+    
+    
+    width: 100%;
+    margin: auto;
+    position: fixed;
+    z-index: -1;
+    bottom: 0;
+    height: 360px;
+    height: 100%;
+    background-color: #155480;
+    
+}
+
+
+
+
+
+
+header {
+    max-height: 140px;
+    width: 100%;
+}
+
+#plava-traka {
+    
+    background-color: #024778;
+    width: 100%;
+    padding: 0.5em 0;
+    font-size: 1.4rem;
+    
+}
+
+.u-traci {
+    text-decoration: none;    
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 0.80em;
+    color: white;
+   
+}
+
+#traka-levo {
+    
+    
+}
+
+#traka-desno {
+    
+    padding-right: -10px;
+}
+
+#bela-traka {
+    background-color: white;
+    padding: 1.5em 0em;
+}
+
+
+
+#logo {
+    height: 50px;
+    width: 260px;
+}
+
+#pretraga {
+    background-color: azure;
+    
+}
+
+
